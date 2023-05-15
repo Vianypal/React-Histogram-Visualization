@@ -22,7 +22,7 @@ The following libraries and plugins are used in this project:
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/Vianypal/React-Histogram-Visualization.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 
