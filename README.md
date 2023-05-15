@@ -2,6 +2,8 @@
 
 This is a React application that fetches data from a text file, analyzes the word frequencies, and displays a histogram visualization using the Recharts library. The application allows exporting the histogram data as a CSV file.
 
+The application is deployed and accessible at: [https://jolly-lebkuchen-ca9a4a.netlify.app/](https://jolly-lebkuchen-ca9a4a.netlify.app/)
+
 ## Components
 
 The application consists of the following components:
@@ -26,6 +28,10 @@ To run this application locally, follow these steps:
 
 The application will be accessible at `http://localhost:3000`.
 
+## Deployment
+
+The application is deployed on Netlify. You can access it at [https://jolly-lebkuchen-ca9a4a.netlify.app/](https://jolly-lebkuchen-ca9a4a.netlify.app/).
+
 ## Usage
 
 1. Click the "Submit" button to fetch the text data from the provided URL and calculate the word frequencies.
@@ -38,4 +44,4 @@ Contributions are welcome! If you have any improvements or bug fixes, feel free 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+
